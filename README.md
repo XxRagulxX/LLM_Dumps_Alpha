@@ -1,5 +1,7 @@
  # LLM Security 
 
+# NOT MY REPOOOOO FYI 
+
 Delving into the Realm of LLM Security: An Exploration of Offensive and Defensive Tools, Unveiling Their Present Capabilities.
 
 As we embrace Large Language Models (LLMs) in various applications and functionalities, it is crucial to grasp the associated risks and actively mitigate, if not entirely eliminate, the potential security implications. 
