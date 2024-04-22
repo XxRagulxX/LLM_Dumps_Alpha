@@ -1,4 +1,4 @@
- # LLM Security 101
+ # LLM Security 
 
 Delving into the Realm of LLM Security: An Exploration of Offensive and Defensive Tools, Unveiling Their Present Capabilities.
 
