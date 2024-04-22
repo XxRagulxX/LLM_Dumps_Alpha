@@ -302,6 +302,4 @@ _Transparency:_ Provide clear documentation on how the model works, its limitati
 - https://github.com/corca-ai/awesome-llm-security
 <br>
 
-## Please drop in a PR if you'd like to contribute and keep this research updated. And, if you're looking to get in touch, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/prabhuved/) for a conversation :)
-
 <br>
